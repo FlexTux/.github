@@ -1,6 +1,6 @@
-# Olá 👋
+# Olá somos a Nyssa Bot👋
 
-## **Sobre a Nyssa Bot**
+## **Informações:**
 
 > 🙋‍♀️ Somos a organização por trás da [Nyssa Bot](https://nyssabot.pages.dev)
 
