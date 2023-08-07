@@ -1,8 +1,8 @@
-# Olá somos a Nyssa Bot👋
+# Olá somos o FlexTux👋
 
 ## **Informações:**
 
-> 🙋‍♀️ Somos a organização por trás da [Nyssa Bot](https://nyssabot.pages.dev)
+> 🙋‍♀️ Somos a organização por trás do [FlexTux](https://flextux.pages.dev)
 
 > 👩‍💻Membros: [GeovaneDev](https://github.com/GeovaneDev)
 
